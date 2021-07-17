@@ -1,0 +1,4 @@
+/home/gary/Projects/homeBrew/build-jokeProgram-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/gary/Projects/homeBrew/build-jokeProgram-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/gary/Projects/homeBrew/build-jokeProgram-Desktop-Debug/CMakeFiles/jokeProgram.dir
+/home/gary/Projects/homeBrew/build-jokeProgram-Desktop-Debug/CMakeFiles/jokeProgram_autogen.dir
