@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/jokeProgram.dir/jokeProgram_autogen/mocs_compilation.cpp.o CMakeFiles/jokeProgram.dir/main.cpp.o CMakeFiles/jokeProgram.dir/mainwindow.cpp.o -o jokeProgram  /usr/lib/libQt5Widgets.so.5.15.2 /usr/lib/libQt5Gui.so.5.15.2 /usr/lib/libQt5Core.so.5.15.2 
